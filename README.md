@@ -1,4 +1,5 @@
 # IHM_project
+May 2019
 School project in java made with Chausseau Daniel. a pixel art maker
 
 In src -> res -> connexion.txt
